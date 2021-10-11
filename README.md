@@ -52,4 +52,4 @@ The challenge expands the analysis to show that:
   - The county with the highest turnout was:
     - County (1, 2, or 3), which had "y" number of votes.
 
-![Challenge_Summary](https://user-images.githubusercontent.com/90879979/136830513-18bfacc8-a3f7-4ad4-8a25-b68c37c023a1.png)
+![Challenge_Summary](https://user-images.githubusercontent.com/90879979/136830776-42067630-e0ce-475e-b673-a78ea7a87c39.png)
